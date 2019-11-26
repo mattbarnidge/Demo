@@ -1,0 +1,30 @@
+Fact Sheet
+
+Reuters: Uganda's social media tax will harm business, deter investment
+“My real worry is that it (tax) has the potential to exclude lower-income groups from accessing internet and hence our services.” --Sefik Bagdadioglu, regional director for online retailer Jumia, adding that he worries the tax measure will curb Internet use by lower-income Ugandans, potentially putting them beyond the firm’s reach.
+https://www.reuters.com/article/us-uganda-internet/ugandas-social-media-tax-will-harm-business-deter-investment-executives-idUSKBN1KK1T3
+
+Freedom House: Internet freedom in Uganda improved incrementally in the past year (2017, last data available), in contrast to the previous year when internet freedom saw a precipitous decline. Amendments to the Uganda Communications Bill were passed in April 2017, removing parliamentary checks and balances on the ICT minister’s supervision of the communications sector. The 2011 Computer Misuse Act was used to arrest and charge individuals with “offensive communications” for criticizing the president in two separate incidents. Civil society groups petitioned the Constitutional Court to challenge the constitutionality of the Act. Another user was arrested on terrorism charges for social media posts documenting a violent military raid.  https://freedomhouse.org/report/freedom-net/2017/uganda
+
+Daily Monitor: Uganda Information and Communication Technology (ICT) Minister, Mr Frank Tumwebaze admitted that the tax is has had adverse effects on the sector. He said they were “hoodwinked” by their counterparts in the Finance Ministry that the introduction of the tax on the basis that it would widen the country’s revenue base. https://www.monitor.co.ug/News/National/Parliament-orders-assessment-impact-social-media-tax/688334-4940312-rph8g3z/index.html
+
+CIPESA (Collaboration on International ICT Policy for East and Southern Africa): Social Media Tax Cuts Ugandan Internet Users by Five Million, Penetration Down From 47% to 35%
+
+The tax which the Uganda government introduced on use of social media last July has slashed the number of internet users in the country by five million in three months, according to figures from the industry regulator, the Uganda Communications Commission (UCC). Earlier this month, Uganda’s ICT minister Frank Tumwebaze hinted that his ministry may have been misled by the finance ministry  into supporting the tax on the assumption that it would widen the country’s revenue base. Accordingly, parliament’s committee on Information and Communication Technology (ICT) ordered the ICT ministry to conduct an assessment on the impact of the social media tax and share their views with the finance ministry. According to the  2017/18 Uganda National Information Technology Survey, social media platforms are some of the popular avenues for citizens to engage with each other, and to pursue businesses and education opportunities. At least 76% of the survey respondents cited the price of internet subscription as a key limitation to their internet use. This was followed by concerns over slow internet speeds and the lack of connectivity in some areas. 
+https://cipesa.org/2019/01/%EF%BB%BFsocial-media-tax-cuts-ugandan-internet-users-by-five-million-penetration-down-from-47-to-35/
+
+Population: 39 million
+Adult literacy rate, population 15+ years, both sexes (%) 73.8
+Access to electricity (% of population) 18.2
+GDP per capita, PPP (constant 2011 international $) $1,717.83
+Poverty headcount ratio at $3.10 a day (2011 PPP) (% of population) 65.0
+Percentage of people with 4Mbps+ broadband internet access: 6.5%
+Internet users per 100 people: 19.2
+Average connection speed: 1898
+Fixed broadband subscriptions: 130,200
+Fixed broadband subscriptions per 100 people: 0.30
+Secure internet servers per 100 people: 1.9
+Mobile cellular subscriptions: 20.0 million
+Mobile cellular subscriptions per 100 people: 50.4
+Mobile broadband price, postpaid, 500MB (USD): $7.69
+Mobile broadband price, prepaid (500MB): $7.69
