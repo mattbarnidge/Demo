@@ -13,6 +13,7 @@ CIPESA (Collaboration on International ICT Policy for East and Southern Africa):
 The tax which the Uganda government introduced on use of social media last July has slashed the number of internet users in the country by five million in three months, according to figures from the industry regulator, the Uganda Communications Commission (UCC). Earlier this month, Uganda’s ICT minister Frank Tumwebaze hinted that his ministry may have been misled by the finance ministry  into supporting the tax on the assumption that it would widen the country’s revenue base. Accordingly, parliament’s committee on Information and Communication Technology (ICT) ordered the ICT ministry to conduct an assessment on the impact of the social media tax and share their views with the finance ministry. According to the  2017/18 Uganda National Information Technology Survey, social media platforms are some of the popular avenues for citizens to engage with each other, and to pursue businesses and education opportunities. At least 76% of the survey respondents cited the price of internet subscription as a key limitation to their internet use. This was followed by concerns over slow internet speeds and the lack of connectivity in some areas. 
 https://cipesa.org/2019/01/%EF%BB%BFsocial-media-tax-cuts-ugandan-internet-users-by-five-million-penetration-down-from-47-to-35/
 
+From webworldwide.io:
 Population: 39 million
 Adult literacy rate, population 15+ years, both sexes (%) 73.8
 Access to electricity (% of population) 18.2
